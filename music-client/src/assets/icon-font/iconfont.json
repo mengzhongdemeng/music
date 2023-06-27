@@ -1,0 +1,30 @@
+{
+  "id": "3961282",
+  "name": "test-music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18176389",
+      "name": "随机",
+      "font_class": "random",
+      "unicode": "ea7c",
+      "unicode_decimal": 60028
+    },
+    {
+      "icon_id": "2154283",
+      "name": "单曲循环_32",
+      "font_class": "danquxunhuan",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "34218745",
+      "name": "顺序播放",
+      "font_class": "shunxubofang",
+      "unicode": "e871",
+      "unicode_decimal": 59505
+    }
+  ]
+}

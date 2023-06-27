@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+          "@/*": ["src/*"],
+          "@components/*": ["src/components/*"],
+          "@utils/*": ["src/utils/*"],
+          "@views/*": ["src/views/*"]
+        },
+        "target": "ES6",
+        "module": "commonjs",
+        "allowSyntheticDefaultImports": true
+      },
+      "vueCompilerOptions":{
+        "target": 2
+      },
+      "exclude": ["node_modules"]
+}
